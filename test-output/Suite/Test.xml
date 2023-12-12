@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="ImransDell" name="com.example.sample.SampleFb" tests="1" failures="0" timestamp="12 Dec 2023 10:21:38 GMT" time="6.542" errors="0">
+  <testcase name="loginFacebook" time="6.53" classname="com.example.sample.SampleFb"/>
+</testsuite>
